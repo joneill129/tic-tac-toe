@@ -110,7 +110,7 @@ function render() {
     });
    
         if (winner === 'tie') {
-          msgDisplay.innerText = "We have a tie!"  
+          msgDisplay.innerText = "We have a tie! Cheers 🥂 "  
         } else if (winner) {
             msgDisplay.innerText = `Looks like ${whosWhat[winner].toUpperCase()} won this round!`
         } else {
