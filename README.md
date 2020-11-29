@@ -24,4 +24,4 @@ Constructed during my time at General Assembly. A true classic!
 
 - Add AI so user can play against the computer
 - Add scorebox to keep track of rounds / add ability to reset scorebox
-- Add ability for players to choose if they want X or Y
+- Add ability for players to choose if they want X or O
