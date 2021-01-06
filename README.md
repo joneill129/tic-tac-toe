@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-Constructed during my time at General Assembly. A true classic!
+This was our first introduction to game logic and building with Javascript
 
 
 # Technologies Used
