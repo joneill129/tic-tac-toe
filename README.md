@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-This was our first introduction to game logic and building with Javascript
+This was our first introduction to applying game logic and building with Javascript
 
 
 # Technologies Used
